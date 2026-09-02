@@ -1,2 +1,0 @@
-# inleiding programeren
-begin schooljaar
