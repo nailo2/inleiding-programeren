@@ -1,0 +1,5 @@
+float seconden = 31536000;
+
+float uren = seconden / 3600;
+float dagen = uren / 24;
+float jaren = dagen / 365;
